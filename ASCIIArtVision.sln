@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIIArtVision.CSharp", "ASCIIArtVision.CSharp.csproj", "{F3C87439-A08A-AA58-4BC4-4FB7A2B6FE4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCIIArtVision.CSharp.Editor", "ASCIIArtVision.CSharp.Editor.csproj", "{AD6A1B13-226F-7BE3-AD56-5C4C959C68C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C87439-A08A-AA58-4BC4-4FB7A2B6FE4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C87439-A08A-AA58-4BC4-4FB7A2B6FE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C87439-A08A-AA58-4BC4-4FB7A2B6FE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C87439-A08A-AA58-4BC4-4FB7A2B6FE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6A1B13-226F-7BE3-AD56-5C4C959C68C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6A1B13-226F-7BE3-AD56-5C4C959C68C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6A1B13-226F-7BE3-AD56-5C4C959C68C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6A1B13-226F-7BE3-AD56-5C4C959C68C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
